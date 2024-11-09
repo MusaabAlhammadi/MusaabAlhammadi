@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Musa'ab 😎<br><br>- 🔭 I’m working as Mobile Applications developer <br>- 📚 I'm currently learning Back-End<br>- ⚡ In my free time I play soccer ⚽</p>
+<p align="left">I'm Musa'ab 😎<br><br>- 🔭 I’m working as Mobile Applications developer <br>- 📚 I'm currently learning Back-End<br></p>
 
 ###
 
